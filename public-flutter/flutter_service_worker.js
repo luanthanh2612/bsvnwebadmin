@@ -3,18 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "613159d58d4a2291104926ad29222f6f",
+"assets/assets/fonts/SF-Pro.ttf": "b00758ffdb3216ea93c6fc6957aa2cfa",
+"assets/assets/images/404page.png": "0de064c7cbe36ee9a908ef9990f13d0b",
+"assets/assets/images/logo.png": "9ee45a1dafa16881c441f3d2e13f1f9c",
+"assets/assets/images/person.png": "aaf7d0d9c1350a4945d92218feb1ea9f",
+"assets/assets/images/right-arrow.png": "c1be2aee89f248f4b958811a9b3226ee",
+"assets/FontManifest.json": "f90319d49eea6cfe1d760df10d95ce3d",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "a343d01e8cc8e460d0526fb92f70b5f9",
+"assets/NOTICES": "5d60c61a761b7a9b5324806a69de4e21",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d5960528f23f86137e0b328b782ec50f",
-"/": "d5960528f23f86137e0b328b782ec50f",
-"main.dart.js": "6fcb95b1831250291de81bec907c49ea",
+"index.html": "9e27b92cb2eb622949e6a841d718a28c",
+"/": "9e27b92cb2eb622949e6a841d718a28c",
+"main.dart.js": "8f54e604e777c3f73115a0c652b19790",
 "manifest.json": "1320ba9673d9089de1d6c7b88f05a5aa",
+"splash/img/dark-1x.png": "d108f700b82763a7c1f99aa96d722fc7",
+"splash/img/dark-2x.png": "7b19505d148d85690e1acf76f2b2794e",
+"splash/img/dark-3x.png": "3e90b2ca6ba93c0169e2e03f77777348",
+"splash/img/light-1x.png": "d108f700b82763a7c1f99aa96d722fc7",
+"splash/img/light-2x.png": "7b19505d148d85690e1acf76f2b2794e",
+"splash/img/light-3x.png": "3e90b2ca6ba93c0169e2e03f77777348",
+"splash/style.css": "86126e7e4072786170390b7ceee604b3",
 "version.json": "1a1f57193a96b3501373239fe8377158"
 };
 
